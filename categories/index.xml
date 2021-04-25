@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Theme Dream</title>
-    <link>https://github.com/ReeceChang0912/ReeceChang0912.github.io.git/categories/</link>
-    <description>Recent content in Categories on Hugo Theme Dream</description>
+    <title>Categories on Reece Chang&#39;s Blog</title>
+    <link>https://ReeceChang0912.github.io.git/categories/</link>
+    <description>Recent content in Categories on Reece Chang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://github.com/ReeceChang0912/ReeceChang0912.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language><atom:link href="https://ReeceChang0912.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
